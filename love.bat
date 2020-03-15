@@ -7,7 +7,7 @@ if %love% == no goto hate
 :love
 echo I love you too...
 echo Meet you soon...
-psuse
+pause
 exit
 :hate
 echo But i love you...hehehehe
